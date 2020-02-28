@@ -2,6 +2,7 @@
 .DS_Store
 *.mp4
 *.sketch
+*.dat
 
 
 # Byte-compiled / optimized / DLL files
